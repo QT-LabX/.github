@@ -4,7 +4,7 @@
 
 ![QT LabX typing](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=28&duration=2500&color=ff4500&center=true&vCenter=true&width=760&lines=QT+LabX+Pvt+Ltd;Build.+Innovate.+Scale.;Empowering+businesses+with+AI)
 
-[![Website](https://img.shields.io/badge/Website-qtlabx.com-1abc9c?style=for-the-badge&logo=google-chrome)](https://qtlabx.com)  [![Email](https://img.shields.io/badge/Email-bgmaduragoda@gmail.com-e74c3c?style=for-the-badge&logo=gmail)](mailto:bgmaduragoda@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-QT%20LabX-0e76a8?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/qt-labx)
+[![Website](https://img.shields.io/badge/Website-qtlabx.com-1abc9c?style=for-the-badge&logo=google-chrome)](https://qtlabx.com)  [![Email](https://img.shields.io/badge/Email-contact@qtlabx.com-e74c3c?style=for-the-badge&logo=gmail)](mailto:contact@qtlabx.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-QT%20LabX-0e76a8?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/qt-labx)
 
 ---
 
@@ -457,7 +457,7 @@ For urgent technical issues or critical system problems, contact our emergency l
 
 ### **Contact QT LabX Today**
 
-[![Email](https://img.shields.io/badge/Email%20Us-red?style=for-the-badge&logo=gmail)](mailto:bgmaduragoda@gmail.com)
+[![Email](https://img.shields.io/badge/Email%20Us-red?style=for-the-badge&logo=gmail)](mailto:contact@qtlabx.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp%20Chat-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/)
 [![Website](https://img.shields.io/badge/Visit%20Website-blue?style=for-the-badge&logo=google-chrome)](https://qtlabx.com)
 
