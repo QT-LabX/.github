@@ -317,7 +317,7 @@ To be the leading provider of innovative, user-friendly technology solutions tha
 | **📱 WhatsApp** | [+94 77 668 5719](https://wa.me/) | <2 hours |
 | **📞 Phone** | [+94 77 668 5719](tel:) | Business hours |
 | **🌐 Website** | [qtlabx.com](https://qtlabx.com) | 24/7 |
-| **📍 Location** | Sri Lanka | On-site available |
+| **📍 Location** | Sri Lanka | Remote available |
 
 ### **Business Hours**
 - **Monday - Friday:** 7:00 AM - 8:00 PM (Sri Lanka Time)
