@@ -1,117 +1,85 @@
 <div align="center">
 
 <a href="https://qtlabx.com">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:8B1E3F,100:EF4444&height=220&section=header&text=QT%20LabX&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=Ideas%2C%20engineered%20into%20software.&descAlignY=57&animation=fadeIn" alt="QT LabX — Ideas, engineered into software" width="100%" />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/qtlabx-banner.png">
+    <img src="./assets/qtlabx-banner.gif" alt="QT LabX — Ideas, engineered into software. Software, cloud and connected systems from Matale, Sri Lanka." width="100%">
+  </picture>
 </a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=F87171&center=true&vCenter=true&width=800&lines=Engineering+ideas+into+software;Custom+Software+%7C+Cloud+%7C+Connected+Security;Building+technology+for+real-world+impact)](https://qtlabx.com)
+# Software that moves real work forward.
 
-**A brand of Quantum Thinking Laboratory**  
-**Based in Matale, Sri Lanka 🇱🇰**
+Custom software. Cloud solutions. Connected systems.
 
-[![Website](https://img.shields.io/badge/Website-qtlabx.com-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white)](https://qtlabx.com)
-[![Email](https://img.shields.io/badge/Contact-Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@qtlabx.com)
-[![Location](https://img.shields.io/badge/Based_in-Matale%2C_Sri_Lanka-374151?style=for-the-badge&logo=googlemaps&logoColor=white)](https://qtlabx.com)
+<p align="center">
+  <a href="https://qtlabx.com"><img src="./assets/website.svg" alt="Visit QT LabX" height="42"></a>
+  &nbsp;
+  <a href="https://discord.gg/RPUuhfDFf"><img src="./assets/discord.svg" alt="Join our Discord" height="42"></a>
+  &nbsp;
+  <a href="mailto:contact@qtlabx.com"><img src="./assets/contact.svg" alt="Contact the team" height="42"></a>
+</p>
 
 </div>
 
 ---
 
-## ✦ Who We Are
+### The thinking behind the build
 
-**QT LabX** designs and develops thoughtful digital solutions around the businesses and people who use them. From custom applications to cloud solutions and connected security, we turn ambitious ideas into practical technology.
+**QT LabX**, a brand of **Quantum Thinking Laboratory**, is a software team based in **Matale, Sri Lanka**. We turn business requirements into useful digital products, bringing software engineering, cloud infrastructure and connected security together.
 
-> **Our philosophy:** Ideas, engineered into software.
+We build for the people behind everyday work: school administrators, workshop teams, creators and learners.
 
-## ⚡ What We Do
+[Get to know our team →](https://qtlabx.com/about)
 
-| Expertise | What it means |
-|:--|:--|
-| **Custom Software Development** | Purpose-built applications shaped around real workflows and business needs. |
-| **Cloud Solutions** | Cloud-native architecture, scalable systems, and AI-driven solutions. |
-| **Connected Security** | Security technology integrated with a broader software and cloud perspective. |
+### What we build
 
-## 🚀 Our Products
+- **Custom software** — Applications shaped around your workflows, users and business needs.
+- **Cloud solutions** — Cloud services alongside our software engineering practice.
+- **Connected security** — Security technology integrated into a broader view of your systems.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+[Explore our services →](https://qtlabx.com/services)
 
-### 🎓 CSM System
-**Centralized School Management System**  
-A connected platform for admissions, academics, staff operations, fees, and school communication.
+### Technology partnerships
 
-[Explore CSM System](https://qtlabx.com/)
+- **[Google Cloud Partner](https://cloud.google.com/find-a-partner/partner/qt-labx)** — Cloud and AI solutions.
+- **[Hikvision](https://www.hikvision.com/en/)** — Connected security technology partnership.
 
-</td>
-<td width="50%" valign="top">
+### Products with a purpose
 
-### 🚘 Auto
-**Automotive Service Software**  
-A digital experience connecting workshop operations with vehicle owners and their service history.
+**01 / EDUCATION · [CSM System](https://qtlabx.com/solutions/school-management)**  
+School administration, academics, staff workflows, fees and communication in one workspace, with web and Android experiences.
 
-[Explore Auto](https://auto.qtlabx.com)
+**02 / AUTOMOTIVE · [Auto](https://auto.qtlabx.com)**  
+Software for service stations, with workshop workflows and a dedicated experience for vehicle owners.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**03 / CREATIVE TOOLS · [Jiyara](https://jiyara-studio.web.app)**  
+An AI-assisted workspace for creating and refining marketing visuals, product imagery and social content.
 
-### 🎨 Jiyara
-**AI-Powered Creative Studio**  
-Create and refine marketing visuals, product imagery, and social content with AI-assisted tools.
+**04 / WEB LEARNING · [TiKi](https://chromewebstore.google.com/detail/tiki/jgapjnphcimmmnpipcpajojnpcfcpmdp?hl=en)**  
+A browser learning companion that explains selected text, supports language choice and answers follow-up questions.
 
-[Open Jiyara Studio](https://jiyara-studio.web.app)
+**05 / ACADEMIC MARKETPLACE · [FinalPitch](https://finalpitch.qtlabx.com) · Preview**  
+Discover and list academic projects, with campus-based visibility and project downloads.
 
-</td>
-<td width="50%" valign="top">
+### Build a conversation
 
-### 🧠 TiKi
-**AI Learning Companion**  
-Understand selected web content in your preferred language, with explanations and follow-up questions.
+Join us on **[Discord](https://discord.gg/RPUuhfDFf)** to connect with the QT LabX community. For project enquiries, product demos and business conversations, reach our team by email.
 
-[Discover TiKi](https://qtlabx.com/)
+Exploring a public repository? Start with its README and contribution guidance. Report reproducible bugs through its issue tracker where available. For sensitive reports, contact us privately by email.
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+---
 
-### 📚 FinalPitch · Preview
-**Academic Project Marketplace**  
-A space for discovering and listing academic projects, with campus visibility and downloadable resources.
+### Your next project starts here
 
-[Explore FinalPitch](https://finalpitch.qtlabx.com)
+- **Website:** [qtlabx.com](https://qtlabx.com)
+- **Email:** [contact@qtlabx.com](mailto:contact@qtlabx.com)
+- **Phone:** [+94 77 00 235 66](tel:+94770023566) · [+94 77 68 000 67](tel:+94776800067)
+- **Location:** Winrose Garden, Matale, Sri Lanka
+- **Discord:** [Join the community](https://discord.gg/RPUuhfDFf)
 
-</td>
-</tr>
-</table>
-
-## 🤝 Technology Partnerships
+[Discuss a project →](mailto:contact@qtlabx.com?subject=Project%20enquiry%20%E2%80%94%20QT%20LabX) &nbsp; · &nbsp; [Request a CSM demo →](mailto:contact@qtlabx.com?subject=CSM%20System%20demo%20request)
 
 <div align="center">
-
-**Google Cloud Partner** · Cloud & AI Solutions  
-**Hikvision Technology Partnership** · Connected Security
-
-</div>
-
-## 🌍 Building for Real-World Impact
-
-Our website features work and relationships with **Horana Plantations**, **Bidhora**, **Thirasara Products**, and **Sinhala Buddhist College, Matale**. The **CSM System** is in use at Sinhala Buddhist College, Matale.
-
-[Explore our work and clients](https://qtlabx.com)
-
-## 💬 Let's Build Something Meaningful
-
-Have a project, product idea, or business challenge? We'd love to hear about it.
-
-<div align="center">
-
-### [🌐 Visit qtlabx.com](https://qtlabx.com) · [✉️ contact@qtlabx.com](mailto:contact@qtlabx.com)
-
-*Engineering the next generation of digital experiences.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,50:8B1E3F,100:111827&height=110&section=footer" width="100%" alt="Decorative footer" />
-
+  <sub><strong>QT LabX</strong> · Quantum Thinking Laboratory · Matale, Sri Lanka</sub><br>
+  <sub>Thoughtful engineering. Useful software.</sub>
 </div>
