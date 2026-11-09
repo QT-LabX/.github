@@ -2,8 +2,8 @@
 
 <a href="https://qtlabx.com">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/qtlabx-banner.png">
-    <img src="./assets/qtlabx-banner.gif" alt="QT LabX — Ideas, engineered into software. Software, cloud and connected systems from Matale, Sri Lanka." width="100%">
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/qtlabx-banner-v2.png">
+    <img src="./assets/qtlabx-banner-v2.gif" alt="QT LabX — Ideas, engineered into software. Software, cloud and connected systems from Matale, Sri Lanka." width="100%">
   </picture>
 </a>
 
